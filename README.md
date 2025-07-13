@@ -14,3 +14,7 @@ LATEST COMMITS BASED ON SELF CREATED BOOKMARK( BRANCH )
 The working copy has no changes.
 Working copy  (@) : rqzowrwm 38f8f78b (empty) (no description set)
 Parent commit (@-): woyptsvz 4c54e057 push-woyptsvzvpmw | update(second):second change
+
+2. jj commit -m "update(new_first): Add new first commit"
+Working copy  (@) now at: zyxrkoww 1f51a297 (empty) (no description set)
+Parent commit (@-)      : rqzowrwm 7bdb5b53 update(new_first): Add new first commit
