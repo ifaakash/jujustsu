@@ -1,2 +1,1 @@
-# jujustsu
-Git repository for testing out JUJUTSU version control
+Hello World
